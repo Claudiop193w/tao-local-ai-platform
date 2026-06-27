@@ -33,6 +33,13 @@ Runtime: RUNNING
 Mode: DEMO
 Health: OK
 OfficeVision demo: visible
+Menu: Overview, OfficeVision, Capabilities, Safety, Report
+```
+
+User guide:
+
+```text
+docs/USAGE.md
 ```
 
 ## What the demo branch contains
@@ -40,6 +47,7 @@ OfficeVision demo: visible
 - clean README and setup documentation
 - `.env.example` templates
 - demo-mode documentation
+- usage guide with menu navigation
 - safe preflight tools
 - sanitized v0.8 report
 - neutral demo/test data
